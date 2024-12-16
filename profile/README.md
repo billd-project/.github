@@ -15,7 +15,7 @@
 
 | 项目名                 | 简介                | 体验                                                                      |
 | ---------------------- | ------------------- | ------------------------------------------------------------------------- |
-| billd-desk-pro         | 远程桌面网页/客户端 | [网页版](https://desk.hsslive.cn) ，[客户端下载](https://desk.hsslive.cn) |
+| billd-desk-pro         | 远程桌面网页/客户端 | [网页版](https://desk.hsslive.cn) / [客户端下载](https://desk.hsslive.cn) |
 | billd-desk-admin-pro   | 远程桌面后台        | [在线地址](https://desk-admin.hsslive.cn)                                 |
-| billd-desk-flutter-pro | 远程桌面客户端      | -                                                                         |
+| billd-desk-flutter-pro | 远程桌面客户端      | [下载地址](https://desk.hsslive.cn)                                       |
 | billd-desk-server-pro  | 远程桌面后端        | -                                                                         |
