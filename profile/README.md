@@ -1,4 +1,14 @@
-## billd-live 商业版
+## 开源版 VS 高级版
+
+|          | 开源版   | 高级版 |
+| -------- | -------- | ------ |
+| 稳定性   | ★☆☆☆☆    | ★★★☆☆  |
+| 技术支持 | ★☆☆☆☆    | ★★☆☆☆  |
+| 功能特性 | ★★★☆☆    | ★★★★★  |
+| 更新频率 | ★★☆☆☆    | ★★★★★  |
+| 费用方面 | 完全免费 | 收费   |
+
+## billd-live 高级版
 
 定价：[https://live.hsslive.cn/price](https://live.hsslive.cn/price)
 
@@ -9,7 +19,7 @@
 | billd-live-flutter-pro | 直播客户端 | [下载地址](https://live-admin.hsslive.cn) |
 | billd-live-server-pro  | 直播后端   | -                                         |
 
-## billd-desk 商业版
+## billd-desk 高级版
 
 定价：[https://desk.hsslive.cn/#/price](https://desk.hsslive.cn/#/price)
 
